@@ -1,0 +1,1 @@
+LGTM. The function does exactly what it says, which is more than can be said for any of us.
